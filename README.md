@@ -18,10 +18,15 @@ Delete an expense:
 
 First, create a .env file with the following: 
 DATABASE_URL 
+
 KINDE_DOMAIN
+
 KINDE_CLIENT_ID
+
 KINDE_CLIENT_SECRET
+
 KINDE_REDIRECT_URI
+
 KINDE_LOGOUT_REDIRECT_URI
 
 Install dependencies and run dev server:
