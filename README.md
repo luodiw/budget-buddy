@@ -14,6 +14,9 @@ Each expense:
 Delete an expense:
 ![delete](assets/delete.png)
 
+Expenses showing up in PostgreSQL DB:
+![db](assets/post.png)
+
 ### Running the application on localhost
 
 First, create a .env file with the following: 
