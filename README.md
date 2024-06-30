@@ -1,4 +1,8 @@
-## Budget Buddy
+<div align="center">
+<pre>
+
+Budget Buddy
+</pre>
 
 Budget Buddy is an app that tracks your expenses- and organizes them in a simple format. Budget Buddy serves as an expense tracker for hundreds of school clubs; next steps are to build a centralized dashboard tracking all expenses across clubs.
 
