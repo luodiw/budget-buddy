@@ -9,7 +9,7 @@ Total expenses:
 ![delete](assets/total.png)
 
 Each expense:
-![delete](assets/delete.png)
+![each](assets/individual.png)
 
 Delete an expense:
 ![delete](assets/delete.png)
