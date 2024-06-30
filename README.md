@@ -5,7 +5,8 @@ Budget Buddy
 
 </div>
 
-### What is Budget Buddy?[https://github.com/luodiw/budget-buddy/tree/main?tab=readme-ov-file#what-is-budget-buddy-?]
+### What is Budget Buddy?
+_______________________________________________________________________________________________________________________________________________________________________
 Budget Buddy is an app that tracks your expenses- and organizes them in a simple format. Budget Buddy serves as an expense tracker for hundreds of school clubs; next steps are to build a centralized dashboard tracking all expenses across clubs.
 
 Created with Bun, Hono, PostgreSQL, Vite and React, TypeScript, Tailwind, Shadcn UI, and deployed on Docker.
